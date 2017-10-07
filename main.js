@@ -1,5 +1,5 @@
 const colors = require('colors/safe')
-const Neuron = require('./Neuron')
+const Neuron = require('./Neuron.verbose')
 const bold = colors.bold
 
 const timeout = (index, ...fns) => {
