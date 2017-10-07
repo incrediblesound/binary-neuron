@@ -1,0 +1,14 @@
+{
+  "name": "binary-neuron",
+  "version": "1.0.0",
+  "description": "An explanatory example of a binary neuron decision maker",
+  "main": "main.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "author": "James H Edwards",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
